@@ -2,9 +2,7 @@
 
 ```
 const myName = ()=> {
-
+  return 'hello world'
 }
-
-
 
 ```
